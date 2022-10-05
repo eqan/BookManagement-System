@@ -1,0 +1,3 @@
+sudo -u postgres psql
+\c nest
+SELECT * FROM information_schema;
